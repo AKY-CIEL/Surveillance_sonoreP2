@@ -11,9 +11,11 @@ void setup() {
   ecranOled.setFont(ArialMT_Plain_16);
   ecranOled.drawString(0, 10, "Mon appli v1.0");
   ecranOled.display();
+  Setup
 }
 
 void loop() {
   Serial.println("Bonjour!");
   sleep(2);
+  esp_err_t CSon::SamplesDmaAcquisition() 
 }
